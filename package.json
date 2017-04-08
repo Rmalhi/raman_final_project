@@ -1,0 +1,17 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "I tried to make an calendar app. But i have one error in my project which am not able to solve.",
+  "main": "calendar.js",
+  "dependencies": {
+    "async": "^0.2.10",
+    "socket.io": "^0.9.17",
+    "express": "^3.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
